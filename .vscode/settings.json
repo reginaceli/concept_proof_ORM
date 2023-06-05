@@ -1,0 +1,20 @@
+{
+    "editor.mouseWheelZoom": true,
+    "window.zoomLevel": 1,
+    "editor.rulers": [80],
+    "editor.fontSize": 20,
+
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.venv": true,
+        "**/Thumbs.db": true
+    },
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "[makefile]": {
+        "editor.insertSpaces": false
+    },
+    "python.analysis.autoImportCompletions": false,
+    "explorer.compactFolders": false,
+    "python.defaultInterpreterPath": "python"
+}
