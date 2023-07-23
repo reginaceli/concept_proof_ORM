@@ -12,3 +12,5 @@ def test_load_positive_len_list():
 @pytest.mark.unit
 def test_load_positive_start_str():
     assert load(FILE_PATH)[0][0] == "b"
+
+

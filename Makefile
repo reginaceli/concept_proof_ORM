@@ -13,6 +13,7 @@ virtualenv:
 ipython:
 	@.venv/bin/ipython
 
+# terminal: pytest -s -m "unit"
 test:
 	@.venv/bin/pytest
 
